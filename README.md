@@ -19,7 +19,7 @@ Hi there, I'm **Zaiyr Sharsheyev**, a **Software Engineering student** 🚀 from
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning TypeScript with React and Express JS; 
+- 🌱 I’m currently learning React on TypeScript and Express JS; 
 - 🤔 My interests are with Frontend and Backend development on JS language;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 📫 Please email via zaiyr.00@gmail.com to reach me.
