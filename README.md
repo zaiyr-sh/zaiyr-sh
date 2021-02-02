@@ -13,14 +13,14 @@
 <br />
 <br />
 
-Hi there, I'm **Zaiyr Sharsheyev**, a **Software Engineering student** 🚀 from Kyrgyz Republic, currently. 
+Hi there, I'm **Zaiyr Sharsheyev**, an **IAAU student** 🚀 from Kyrgyz Republic, currently. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning React on TypeScript and Express JS; 
-- 🤔 My interests are with Frontend and Backend development on JS language;
+- 🌱 I’m currently learning React on TypeScript, Express JS and Kotlin; 
+- 🤔 My interests are with Frontend and Backend development on JS language, Android development on Kotlin language;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 📫 Please email via zaiyr.00@gmail.com to reach me.
 
