@@ -19,8 +19,8 @@ Hi there, I'm **Zaiyr Sharsheyev**, an **IAAU student** 🚀 from Kyrgyz Republi
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning React on TypeScript, Express JS and Kotlin; 
-- 🤔 My interests are with Frontend and Backend development on JS language, Android development on Kotlin language;
+- 🌱 I’m currently learning Kotlin, JS; 
+- 🤔 My interests are with Mobile, Frontend and Backend development;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 📫 Please email via zaiyr.00@gmail.com to reach me.
 
