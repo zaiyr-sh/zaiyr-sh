@@ -22,8 +22,6 @@ Hi there, I'm **Zaiyr Sharsheyev**, an **IAU student** 🚀 from Kyrgyz Republic
 - 🌱 I’m currently learning Kotlin, JS; 
 - 🤔 My interests are with Mobile, Frontend and Backend development;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
-- 📫 Please email via zaiyr.00@gmail.com to reach me.
-
 
 **Languages and Tools:**  
 
