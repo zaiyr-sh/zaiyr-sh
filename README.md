@@ -19,7 +19,7 @@ Hi there, I'm **Zaiyr Sharsheyev**.
 
 **About Me:**
 
-- 📱 Android Developer with 3.5+ years of experience in Kotlin & Java
+- 📱 Android Developer with 4+ years of experience in Kotlin & Java
 - 🤖 Deep Learning Enthusiast, exploring NLP & Computer Vision
 - 🎓 Master’s student in Applied Information Sciences at Tohoku University (MEXT Scholar)
 - 🏆 Worked on top finance apps in Kyrgyzstan with 5M+ downloads
