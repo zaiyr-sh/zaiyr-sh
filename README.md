@@ -19,15 +19,11 @@ Hi there, I'm **Zaiyr Sharsheyev**.
 
 **About Me:**
 
-- 🎓 I’m currently pursuing a Master's degree in Applied Information Sciences at Tohoku University;
-
-- 🤖 My main interests lie in Machine Learning, Deep Learning, and Artificial Intelligence;
-
-- 📱 I have experience in Android Development using Kotlin;
-
-- 📊 I'm exploring the intersection of AI and behavioral dynamics in sports analytics;
-
-- 🚀 Currently working on my thesis: "Breaking the Save Barrier: Predicting Penalty Outcomes with Machine Learning and Behavioral Dynamics.
+- 📱 Android Developer with 3.5+ years of experience in Kotlin & Java
+- 🤖 Deep Learning Enthusiast, exploring NLP & Computer Vision
+- 🎓 Master’s student in Applied Information Sciences at Tohoku University (MEXT Scholar)
+- 🏆 Worked on top finance apps in Kyrgyzstan with 5M+ downloads
+- ✍️ Interested in Procedural Content Generation, Generative AI, and AI for Video Games
 
 **Languages and Tools:**  
 
